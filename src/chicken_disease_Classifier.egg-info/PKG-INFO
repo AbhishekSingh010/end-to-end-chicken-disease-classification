@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: chicken-disease-Classifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/AbhishekSingh010/end-to-end-chicken-disease-classification
+Author: AbhishekSingh010
+Author-email: abhisheksingh70209@gmail.com
+Project-URL: Bug Tracker, https://github.com/AbhishekSingh010/end-to-end-chicken-disease-classification/issues
+
+# end-to-end-chicken-disease-classification
